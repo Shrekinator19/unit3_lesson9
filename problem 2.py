@@ -1,4 +1,4 @@
-print('_' * 60)
+print('-'*60)
 print('Locker Bot:')
 print()
 password = input('What is the password?')
@@ -9,4 +9,4 @@ else:
 	print('Password invalid...enabling laser defense system, please stand down.')
 	print('Pew Pew Pew!')
 	print('Pew Pew Pew!')
-print('_' * 60)
+print('-'*60)
